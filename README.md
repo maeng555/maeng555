@@ -15,11 +15,15 @@
 | 🗄️ Databases  | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | ☁️ Infrastructure & DevOps | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maeng555&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maeng555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=maeng555&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maeng555&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    </td>
+ 
+</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
