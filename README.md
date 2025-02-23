@@ -5,7 +5,6 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mjy5188@naver.com) 
 
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
